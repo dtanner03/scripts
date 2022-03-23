@@ -1,0 +1,1410 @@
+{
+    "accounts": {
+        "relatient-dev": {
+            "key": "relatient-dev",
+            "name": "Relatient - Dev",
+            "account_id": "191820674490",
+            "externalId": "191820674490",
+            "tags": [
+                "gir-support",
+                "pod-z"
+            ]
+        },
+        "onica-concierge-contact-center": {
+            "key": "onica-concierge-contact-center",
+            "name": "Onica - Concierge Contact Center",
+            "account_id": "004477660921",
+            "externalId": "004477660921",
+            "tags": [
+                "manaedro",
+                "pod-z",
+                "managed"
+            ]
+        },
+        "onica-bolsa-bo-stage": {
+            "key": "onica-bolsa-bo-stage",
+            "name": "Onica - Bolsa Mercantil de Colombia - BO Stage",
+            "account_id": "985429384591",
+            "externalId": "985429384591",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-medinformatix-coreapp-prod": {
+            "key": "onica-medinformatix-coreapp-prod",
+            "name": "Onica - Medinformatix - Core App Production",
+            "account_id": "846997278181",
+            "externalId": "846997278181",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-medinformatix-policyworkloads": {
+            "key": "onica-medinformatix-policyworkloads",
+            "name": "Onica - Medinformatix - Policy Workloads",
+            "account_id": "993398078269",
+            "externalId": "993398078269",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-medinformatix-logarchive": {
+            "key": "onica-medinformatix-logarchive",
+            "name": "Onica - Medinformatix - Log Archive",
+            "account_id": "622640257471",
+            "externalId": "622640257471",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-medinformatix-workload-deployment": {
+            "key": "onica-medinformatix-workload-deployment",
+            "name": "Onica - Medinformatix - Workload - Deployment",
+            "account_id": "281579350133",
+            "externalId": "281579350133",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "relatient-everseat": {
+            "key": "relatient-everseat",
+            "name": "Relatient - Everseat",
+            "account_id": "714955947340",
+            "externalId": "714955947340",
+            "tags": [
+                "pso-readonly",
+                "pod-z"
+            ]
+        },
+        "onica-bolsa-me-stage": {
+            "key": "onica-bolsa-me-stage",
+            "name": "Onica - Bolsa Mercantil de Colombia - ME Stage",
+            "account_id": "079777495011",
+            "externalId": "079777495011",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-assist-megacorp": {
+            "key": "onica-assist-megacorp",
+            "name": "Onica - Assist MegaCorp",
+            "account_id": "316309846858",
+            "externalId": "316309846858",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-bolsa-policy-staging": {
+            "key": "onica-bolsa-policy-staging",
+            "name": "Onica - Bolsa Mercantil de Colombia - Policy Staging",
+            "account_id": "661607033434",
+            "externalId": "661607033434",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-medinformatix-dynamicforms-prod": {
+            "key": "onica-medinformatix-dynamicforms-prod",
+            "name": "Onica - Medinformatix - DynamicForms - Prod",
+            "account_id": "445906106011",
+            "externalId": "445906106011",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "sturdy-modelmatch": {
+            "key": "sturdy-modelmatch",
+            "name": "Sturdy - ModelMatch",
+            "account_id": "589952564977",
+            "externalId": "589952564977",
+            "tags": [
+                "managedro",
+                "managed",
+                "user:jbergdale",
+                "pod-z",
+                "user:ahassan",
+                "user:Jbergdale",
+                "gir-support",
+                "all",
+                "user:jmurphy",
+                "user:mamin"
+            ]
+        },
+        "onica-bill-dot-com": {
+            "key": "onica-bill-dot-com",
+            "name": "Onica - bill.com",
+            "account_id": "116380181329",
+            "externalId": "116380181329",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "relatient-interoptix": {
+            "key": "relatient-interoptix",
+            "name": "Relatient - Interoptix",
+            "account_id": "554741652687",
+            "externalId": "554741652687",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-iqmetrix-master": {
+            "key": "onica-iqmetrix-master",
+            "name": "Onica - iQmetrix Master",
+            "account_id": "732731623129",
+            "externalId": "732731623129",
+            "tags": [
+                "managed",
+                "user:cmilam",
+                "user:ali.nada",
+                "pod-z",
+                "all",
+                "managedro"
+            ]
+        },
+        "onica-iqmetrix-pci-staging": {
+            "key": "onica-iqmetrix-pci-staging",
+            "name": "Onica - iQmetrix PCI Staging",
+            "account_id": "130884285269",
+            "externalId": "130884285269",
+            "tags": [
+                "managed",
+                "user:cmilam",
+                "user:ali.nada",
+                "pod-z",
+                "all",
+                "managedro"
+            ]
+        },
+        "onica-rubicon-eu-prod": {
+            "key": "onica-rubicon-eu-prod",
+            "name": "Onica - Rubicon Global - EU Production",
+            "account_id": "365724197784",
+            "externalId": "365724197784",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-medinformatix-stage": {
+            "key": "onica-medinformatix-stage",
+            "name": "Onica - Medinformatix - Staging",
+            "account_id": "108771076598",
+            "externalId": "108771076598",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-evercast": {
+            "key": "onica-evercast",
+            "name": "Onica - Evercast",
+            "account_id": "167940262023",
+            "externalId": "167940262023",
+            "tags": [
+                "manaedro",
+                "pod-z",
+                "managed"
+            ]
+        },
+        "onica-rubicon-prod": {
+            "key": "onica-rubicon-prod",
+            "name": "Onica - Rubicon Global - Production",
+            "account_id": "438256675408",
+            "externalId": "438256675408",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-rubicon-ap-preprod": {
+            "key": "onica-rubicon-ap-preprod",
+            "name": "Onica - Rubicon Global - AP PreProd",
+            "account_id": "029053137889",
+            "externalId": "029053137889",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-bolsa-gas-manager": {
+            "key": "onica-bolsa-gas-manager",
+            "name": "Onica - Bolsa Mercantil de Colombia - Gas Manager V2",
+            "account_id": "001504137131",
+            "externalId": "001504137131",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-rubicon-sandbox": {
+            "key": "onica-rubicon-sandbox",
+            "name": "Onica - Rubicon Global - Sandbox",
+            "account_id": "369438986540",
+            "externalId": "369438986540",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-eraa-master": {
+            "key": "onica-eraa-master",
+            "name": "Onica - Edmonton Airport Master",
+            "account_id": "818254249965",
+            "externalId": "818254249965",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-stretto-SubEnv2": {
+            "key": "onica-stretto-SubEnv2",
+            "name": "Onica - Stretto SubEnv2",
+            "account_id": "238141506482",
+            "externalId": "238141506482",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z",
+                "user:dominick.nguyen",
+                "user:dnguyen"
+            ]
+        },
+        "onica-stretto-SubEnv1": {
+            "key": "onica-stretto-SubEnv1",
+            "name": "Onica - Stretto SubEnv1",
+            "account_id": "830861027145",
+            "externalId": "830861027145",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z",
+                "user:dominick.nguyen",
+                "user:dnguyen"
+            ]
+        },
+        "onica-medinformatix-breakglass": {
+            "key": "onica-medinformatix-breakglass",
+            "name": "Onica - Medinformatix - Break Glass",
+            "account_id": "080499614413",
+            "externalId": "080499614413",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-point-predictive": {
+            "key": "onica-point-predictive",
+            "name": "Onica - Point Predictive",
+            "account_id": "492436075634",
+            "externalId": "492436075634",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z",
+                "user:dnguyen",
+                "user:dominick.nguyen"
+            ]
+        },
+        "onica-intercon": {
+            "key": "onica-intercon",
+            "name": "Onica - inter-con Security",
+            "account_id": "171631017997",
+            "externalId": "171631017997",
+            "tags": [
+                "manaedro",
+                "pod-z",
+                "managed",
+                "user:bprescott",
+                "user:anozaki",
+                "user:nyehia",
+                "user:psimpson"
+            ]
+        },
+        "onica-iqmetrix-policystaging": {
+            "key": "onica-iqmetrix-policystaging",
+            "name": "Onica - iQmetrix Policy Staging",
+            "account_id": "894733543882",
+            "externalId": "894733543882",
+            "tags": [
+                "managed",
+                "user:cmilam",
+                "user:ali.nada",
+                "pod-z",
+                "all",
+                "managedro"
+            ]
+        },
+        "onica-medinformatix-insurance-manager-production": {
+            "key": "onica-medinformatix-insurance-manager-production",
+            "name": "Onica - Medinformatix - Insurance Manager - Production",
+            "account_id": "003213981628",
+            "externalId": "003213981628",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-medinformatix-migithub": {
+            "key": "onica-medinformatix-migithub",
+            "name": "Onica - Medinformatix - Migithub",
+            "account_id": "509169970599",
+            "externalId": "509169970599",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-stretto-prod1": {
+            "key": "onica-stretto-prod1",
+            "name": "Onica - Stretto Prod 1",
+            "account_id": "551802565057",
+            "externalId": "551802565057",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-iqmetrix-dev": {
+            "key": "onica-iqmetrix-dev",
+            "name": "Onica - iQmetrix Non-PCI Development",
+            "account_id": "246827978284",
+            "externalId": "246827978284",
+            "tags": [
+                "managed",
+                "user:cmilam",
+                "user:ali.nada",
+                "pod-z",
+                "all",
+                "managedro"
+            ]
+        },
+        "onica-iqmetrix-sandbox": {
+            "key": "onica-iqmetrix-sandbox",
+            "name": "Onica - iQmetrix Sandbox",
+            "account_id": "086828111472",
+            "externalId": "086828111472",
+            "tags": [
+                "managed",
+                "user:cmilam",
+                "user:ali.nada",
+                "pod-z",
+                "all",
+                "managedro"
+            ]
+        },
+        "ee-pod-z-lab": {
+            "key": "ee-pod-z-lab",
+            "name": "Pod Z Lab",
+            "account_id": "243976213769",
+            "externalId": "243976213769",
+            "tags": [
+                "sso:ro-all",
+                "sso:only-automated-access",
+                "pod-z",
+                "user:zolisemeka",
+                "user:marco.mejia",
+                "sso:msp",
+                "sso:all",
+                "user:andy.deangelis",
+                "sso:lab"
+            ]
+        },
+        "onica-bolsa-security": {
+            "key": "onica-bolsa-security",
+            "name": "Onica - Bolsa Mercantil de Colombia - Security",
+            "account_id": "739732281435",
+            "externalId": "739732281435",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-big-ass-fans-web-dev-admin": {
+            "key": "onica-big-ass-fans-web-dev-admin",
+            "name": "Big Ass Fans - Web Dev Admin",
+            "account_id": "102868345362",
+            "externalId": "102868345362",
+            "tags": [
+                "sso:readonly",
+                "pod-z"
+            ]
+        },
+        "onica-athennian-dev": {
+            "key": "onica-athennian-dev",
+            "name": "Onica - Athennian Dev",
+            "account_id": "706706741966",
+            "externalId": "706706741966",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-eraa-backup": {
+            "key": "onica-eraa-backup",
+            "name": "Onica - Edmonton Airport Backup",
+            "account_id": "874764006506",
+            "externalId": "874764006506",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-medinformatix-coreapp-stg": {
+            "key": "onica-medinformatix-coreapp-stg",
+            "name": "Onica - Medinformatix - Core App Staging",
+            "account_id": "808560908797",
+            "externalId": "808560908797",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-kharon-dr": {
+            "key": "onica-kharon-dr",
+            "name": "Onica - Kharon Disaster Recovery",
+            "account_id": "252093632320",
+            "externalId": "252093632320",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z",
+                "user:wdodman",
+                "user:gdraper",
+                "user:zolisemeka",
+                "user:rfarr",
+                "user:jeff.vaughan",
+                "user:dperez"
+            ]
+        },
+        "cuboh": {
+            "key": "cuboh",
+            "name": "Cuboh",
+            "account_id": "020142185623",
+            "externalId": "020142185623",
+            "tags": [
+                "pod-j",
+                "pod-z",
+                "pod-j",
+                "pod-z"
+            ]
+        },
+        "onica-medinformatix-insurance-manager-staging": {
+            "key": "onica-medinformatix-insurance-manager-staging",
+            "name": "Onica - Medinformatix - Insurance Manager - Staging",
+            "account_id": "571719809919",
+            "externalId": "571719809919",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-bolsa-me-dev": {
+            "key": "onica-bolsa-me-dev",
+            "name": "Onica - Bolsa Mercantil de Colombia - ME Dev",
+            "account_id": "540288481058",
+            "externalId": "540288481058",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-bolsa-sandbox": {
+            "key": "onica-bolsa-sandbox",
+            "name": "Onica - Bolsa Mercantil de Colombia - Sandbox",
+            "account_id": "788621413474",
+            "externalId": "788621413474",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-bolsa-lift-n-shift": {
+            "key": "onica-bolsa-lift-n-shift",
+            "name": "Onica - Bolsa Mercantil de Colombia - Lift and Shift Account",
+            "account_id": "086863153330",
+            "externalId": "086863153330",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-athennian-prod": {
+            "key": "onica-athennian-prod",
+            "name": "Onica - Athennian Prod",
+            "account_id": "455544459898",
+            "externalId": "455544459898",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-stretto-prod0": {
+            "key": "onica-stretto-prod0",
+            "name": "Onica - Stretto Prod 0",
+            "account_id": "395900338781",
+            "externalId": "395900338781",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-iqmetrix-networking": {
+            "key": "onica-iqmetrix-networking",
+            "name": "Onica - iQmetrix Networking",
+            "account_id": "700327675886",
+            "externalId": "700327675886",
+            "tags": [
+                "managed",
+                "user:cmilam",
+                "user:ali.nada",
+                "pod-z",
+                "all",
+                "managedro"
+            ]
+        },
+        "onica-big-ass-fans-jenkins": {
+            "key": "onica-big-ass-fans-jenkins",
+            "name": "Big Ass Fans - Jenkins",
+            "account_id": "998895110096",
+            "externalId": "998895110096",
+            "tags": [
+                "sso:readonly",
+                "sso:ro-all",
+                "sso:all",
+                "pod-z"
+            ]
+        },
+        "onica-medinformatix-networking": {
+            "key": "onica-medinformatix-networking",
+            "name": "Onica - Medinformatix - Networking",
+            "account_id": "146750112700",
+            "externalId": "146750112700",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-bolsa-networking": {
+            "key": "onica-bolsa-networking",
+            "name": "Onica - Bolsa Mercantil de Colombia - Networking",
+            "account_id": "602242036436",
+            "externalId": "602242036436",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "sturdy-healthplan-services": {
+            "key": "sturdy-healthplan-services",
+            "name": "Sturdy - Healthplan Services",
+            "account_id": "029198596721",
+            "externalId": "029198596721",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-bolsa-project-stg": {
+            "key": "onica-bolsa-project-stg",
+            "name": "Onica - Bolsa Mercantil de Colombia - Projects Staging",
+            "account_id": "901873544432",
+            "externalId": "901873544432",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-iqmetrix-pci-dev": {
+            "key": "onica-iqmetrix-pci-dev",
+            "name": "Onica - iQmetrix PCI Developement",
+            "account_id": "062398995808",
+            "externalId": "062398995808",
+            "tags": [
+                "managed",
+                "user:cmilam",
+                "user:ali.nada",
+                "pod-z",
+                "all",
+                "managedro"
+            ]
+        },
+        "onica-bolsa-audit": {
+            "key": "onica-bolsa-audit",
+            "name": "Onica - Bolsa Mercantil de Colombia - Audit - Managed by Control Tower",
+            "account_id": "253523318112",
+            "externalId": "253523318112",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-bolsa-shared-services": {
+            "key": "onica-bolsa-shared-services",
+            "name": "Onica - Bolsa Mercantil de Colombia - Shared Services",
+            "account_id": "827341845653",
+            "externalId": "827341845653",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-medinformatix-deployments": {
+            "key": "onica-medinformatix-deployments",
+            "name": "Onica - Medinformatix - Deployments",
+            "account_id": "064976899357",
+            "externalId": "064976899357",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-rubicon-master": {
+            "key": "onica-rubicon-master",
+            "name": "Onica - Rubicon Global Master (old sturdy-rubicon-global)",
+            "account_id": "745208562967",
+            "externalId": "745208562967",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-medinformatix-prod": {
+            "key": "onica-medinformatix-prod",
+            "name": "Onica - Medinformatix - Production",
+            "account_id": "870523021246",
+            "externalId": "870523021246",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "user:lmaurice",
+                "gir-support",
+                "user:tpuchalski",
+                "user:jwen"
+            ]
+        },
+        "onica-eraa-network": {
+            "key": "onica-eraa-network",
+            "name": "Onica - Edmonton Airport Networking",
+            "account_id": "457511403576",
+            "externalId": "457511403576",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-big-ass-fans-prod": {
+            "key": "onica-big-ass-fans-prod",
+            "name": "onica - Big Ass Fans - Production",
+            "account_id": "903045850431",
+            "externalId": "903045850431",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-medinformatix-org": {
+            "key": "onica-medinformatix-org",
+            "name": "Onica - Medinformatix - Organization",
+            "account_id": "398928064844",
+            "externalId": "398928064844",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-bolsa-master": {
+            "key": "onica-bolsa-master",
+            "name": "Onica - Bolsa Mercantil de Colombia - Master",
+            "account_id": "264661197086",
+            "externalId": "264661197086",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-rubicon-preprod": {
+            "key": "onica-rubicon-preprod",
+            "name": "Onica - Rubicon Global - PreProd",
+            "account_id": "878825278684",
+            "externalId": "878825278684",
+            "tags": [
+                "pso-readonly",
+                "all",
+                "pod-z"
+            ]
+        },
+        "onica-medinformatix-dynamicforms-staging": {
+            "key": "onica-medinformatix-dynamicforms-staging",
+            "name": "Onica - Medinformatix - DynamicForms - Staging",
+            "account_id": "803577116653",
+            "externalId": "803577116653",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-bolsa-project-dev": {
+            "key": "onica-bolsa-project-dev",
+            "name": "Onica - Bolsa Mercantil de Colombia - Projects Development",
+            "account_id": "424156486947",
+            "externalId": "424156486947",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-bolsa-logarchive": {
+            "key": "onica-bolsa-logarchive",
+            "name": "Onica - Bolsa Mercantil de Colombia - Log & Archive - Managed by Control Tower",
+            "account_id": "130078903333",
+            "externalId": "130078903333",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "relatient-log-archive": {
+            "key": "relatient-log-archive",
+            "name": "Relatient - Log Archive",
+            "account_id": "647051353918",
+            "externalId": "647051353918",
+            "tags": [
+                "gir-support",
+                "pod-z"
+            ]
+        },
+        "onica-iqmetrix-logarchive": {
+            "key": "onica-iqmetrix-logarchive",
+            "name": "Onica - iQmetrix LogArchive",
+            "account_id": "375380991771",
+            "externalId": "375380991771",
+            "tags": [
+                "managed",
+                "user:cmilam",
+                "user:ali.nada",
+                "pod-z",
+                "all",
+                "managedro"
+            ]
+        },
+        "relatient-payer": {
+            "key": "relatient-payer",
+            "name": "Relatient Payer",
+            "account_id": "205502059873",
+            "externalId": "205502059873",
+            "tags": [
+                "ps-relatient",
+                "pod-z"
+            ]
+        },
+        "onica-rubicon-ap-prod": {
+            "key": "onica-rubicon-ap-prod",
+            "name": "Onica - Rubicon Global - AP Prod",
+            "account_id": "639210295533",
+            "externalId": "639210295533",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-iqmetrix-security": {
+            "key": "onica-iqmetrix-security",
+            "name": "Onica - iQmetrix Security",
+            "account_id": "876750429960",
+            "externalId": "876750429960",
+            "tags": [
+                "managed",
+                "user:cmilam",
+                "user:ali.nada",
+                "pod-z",
+                "all",
+                "managedro"
+            ]
+        },
+        "onica-rubicon-ap-audit": {
+            "key": "onica-rubicon-ap-audit",
+            "name": "Onica - Rubicon Global - AP Audit",
+            "account_id": "095671946920",
+            "externalId": "095671946920",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-medinformatix-communications": {
+            "key": "onica-medinformatix-communications",
+            "name": "Onica - MedInformatix - Communications",
+            "account_id": "355823639233",
+            "externalId": "355823639233",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-athennian-master": {
+            "key": "onica-athennian-master",
+            "name": "Onica - Athennian Master",
+            "account_id": "444545932947",
+            "externalId": "444545932947",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-athennian-sandbox": {
+            "key": "onica-athennian-sandbox",
+            "name": "Onica - Athennian Sandbox",
+            "account_id": "129915326414",
+            "externalId": "129915326414",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-medinformatix-coreapp-dev": {
+            "key": "onica-medinformatix-coreapp-dev",
+            "name": "Onica - Medinformatix - Core App Development",
+            "account_id": "459919752120",
+            "externalId": "459919752120",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-bolsa-bo-prod": {
+            "key": "onica-bolsa-bo-prod",
+            "name": "Onica - Bolsa Mercantil de Colombia - BO Prod",
+            "account_id": "983634204905",
+            "externalId": "983634204905",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-evercast-sandbox": {
+            "key": "onica-evercast-sandbox",
+            "name": "Onica - Evercast Sandbox",
+            "account_id": "261556111057",
+            "externalId": "261556111057",
+            "tags": [
+                "manaedro",
+                "pod-z",
+                "managed"
+            ]
+        },
+        "onica-medinformatix-radpayer": {
+            "key": "onica-medinformatix-radpayer",
+            "name": "Onica - MedInformatix - Radpayer",
+            "account_id": "962773105374",
+            "externalId": "962773105374",
+            "tags": [
+                "managed",
+                "user:speters",
+                "pod-z",
+                "user:pdiaz",
+                "user:ahodges",
+                "gir-support",
+                "user:dkubi",
+                "user:mward",
+                "all",
+                "user:dppiah",
+                "user:agalvan",
+                "user:rsaber",
+                "user:dvazquez",
+                "managedro"
+            ]
+        },
+        "relatient-prod": {
+            "key": "relatient-prod",
+            "name": "Relatient - Prod",
+            "account_id": "343161044332",
+            "externalId": "343161044332",
+            "tags": [
+                "gir-support",
+                "pod-z"
+            ]
+        },
+        "onica-bolsa-sysops": {
+            "key": "onica-bolsa-sysops",
+            "name": "Onica - Bolsa Mercantil de Colombia - SysOps",
+            "account_id": "600282493763",
+            "externalId": "600282493763",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-big-ass-fans-haiku-home": {
+            "key": "onica-big-ass-fans-haiku-home",
+            "name": "onica - Big Ass Fans - Haiku Home",
+            "account_id": "877753922059",
+            "externalId": "877753922059",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-rubicon-eu-audit": {
+            "key": "onica-rubicon-eu-audit",
+            "name": "Onica - Rubicon Global - EU Audit",
+            "account_id": "246235088757",
+            "externalId": "246235088757",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-medinformatix-readonly": {
+            "key": "onica-medinformatix-readonly",
+            "name": "Onica - Medinformatix - Read Only",
+            "account_id": "523443706637",
+            "externalId": "523443706637",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-bolsa-bo-dev": {
+            "key": "onica-bolsa-bo-dev",
+            "name": "Onica - Bolsa Mercantil de Colombia - BO Dev",
+            "account_id": "710469408614",
+            "externalId": "710469408614",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-iqmetrix-pci-prod": {
+            "key": "onica-iqmetrix-pci-prod",
+            "name": "Onica - iQmetrix PCI Production",
+            "account_id": "919304717040",
+            "externalId": "919304717040",
+            "tags": [
+                "managed",
+                "user:cmilam",
+                "user:ali.nada",
+                "pod-z",
+                "all",
+                "managedro"
+            ]
+        },
+        "onica-iqmetrix-prod": {
+            "key": "onica-iqmetrix-prod",
+            "name": "Onica - iQmetrix Non-PCI Production",
+            "account_id": "805791838417",
+            "externalId": "805791838417",
+            "tags": [
+                "managed",
+                "user:cmilam",
+                "user:ali.nada",
+                "pod-z",
+                "all",
+                "managedro"
+            ]
+        },
+        "onica-bolsa-projects-prod": {
+            "key": "onica-bolsa-projects-prod",
+            "name": "Onica - Bolsa Mercantil de Colombia - Projects Production",
+            "account_id": "154625967033",
+            "externalId": "154625967033",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "onica-medinformatix-policyinfrastructure": {
+            "key": "onica-medinformatix-policyinfrastructure",
+            "name": "Onica - Medinformatix - Policy Infrastructure",
+            "account_id": "547281511103",
+            "externalId": "547281511103",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-rccl-organization-master": {
+            "key": "onica-rccl-organization-master",
+            "name": "Onica - Royal Caribbean - Organization Master",
+            "account_id": "654119767362",
+            "externalId": "654119767362",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-medinformatix-sandbox": {
+            "key": "onica-medinformatix-sandbox",
+            "name": "Onica - Medinformatix - Sandbox",
+            "account_id": "670171777893",
+            "externalId": "670171777893",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "sturdy-rubicon-global": {
+            "key": "sturdy-rubicon-global",
+            "name": "Sturdy - Rubicon Global",
+            "account_id": "745208562967",
+            "externalId": "745208562967",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-rubicon-us-audit": {
+            "key": "onica-rubicon-us-audit",
+            "name": "Onica - Rubicon Global - US Audit",
+            "account_id": "627454473987",
+            "externalId": "627454473987",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "relatient-common-services": {
+            "key": "relatient-common-services",
+            "name": "Relatient - Common Services",
+            "account_id": "580024345676",
+            "externalId": "580024345676",
+            "tags": [
+                "gir-support",
+                "pod-z"
+            ]
+        },
+        "onica-big-ass-fans-it": {
+            "key": "onica-big-ass-fans-it",
+            "name": "Big Ass Fans - IT Account",
+            "account_id": "823851029248",
+            "externalId": "823851029248",
+            "tags": [
+                "sso:readonly",
+                "sso:ro-all",
+                "sso:all",
+                "pod-z"
+            ]
+        },
+        "onica-medinformatix-accounting": {
+            "key": "onica-medinformatix-accounting",
+            "name": "Onica - MedInformatix - Accounting",
+            "account_id": "822863657502",
+            "externalId": "822863657502",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "gir-support",
+                "pod-z"
+            ]
+        },
+        "onica-iqmetrix-deployments": {
+            "key": "onica-iqmetrix-deployments",
+            "name": "Onica - iQmetrix Deployments",
+            "account_id": "585819931320",
+            "externalId": "585819931320",
+            "tags": [
+                "managed",
+                "user:cmilam",
+                "user:ali.nada",
+                "pod-z",
+                "all",
+                "managedro"
+            ]
+        },
+        "onica-medinformatix-sysops": {
+            "key": "onica-medinformatix-sysops",
+            "name": "Onica - Medinformatix - SysOps",
+            "account_id": "088154438861",
+            "externalId": "088154438861",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "user:ahodges",
+                "gir-support",
+                "user:dvazquez"
+            ]
+        },
+        "onica-bolsa-training": {
+            "key": "onica-bolsa-training",
+            "name": "Onica - Bolsa Mercantil de Colombia - Training",
+            "account_id": "709411157029",
+            "externalId": "709411157029",
+            "tags": [
+                "pod-z"
+            ]
+        },
+        "relatient-jim": {
+            "key": "relatient-jim",
+            "name": "Relatient - Jim",
+            "account_id": "416708775618",
+            "externalId": "416708775618",
+            "tags": [
+                "gir-support",
+                "pod-z"
+            ]
+        },
+        "onica-bms": {
+            "key": "onica-bms",
+            "name": "Onica - Bankruptcy Management Solutions - being deprecated, now Stretto SubEnv2",
+            "account_id": "238141506482",
+            "externalId": "238141506482",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-medinformatix-policydeployments": {
+            "key": "onica-medinformatix-policydeployments",
+            "name": "Onica - Medinformatix - Policy Deployments",
+            "account_id": "971277852475",
+            "externalId": "971277852475",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-medinformatix-radpayer-dev": {
+            "key": "onica-medinformatix-radpayer-dev",
+            "name": "Onica - MedInformatix - Radpayer Development",
+            "account_id": "418247453097",
+            "externalId": "418247453097",
+            "tags": [
+                "managed",
+                "user:speters",
+                "pod-z",
+                "user:pdiaz",
+                "user:ahodges",
+                "gir-support",
+                "user:dkubi",
+                "user:mward",
+                "all",
+                "user:dppiah",
+                "user:agalvan",
+                "user:rsaber",
+                "user:dvazquez",
+                "managedro"
+            ]
+        },
+        "onica-kharon": {
+            "key": "onica-kharon",
+            "name": "Onica - Kharon",
+            "account_id": "450870687564",
+            "externalId": "450870687564",
+            "tags": [
+                "managedro",
+                "managed",
+                "user:wdodman",
+                "user:gdraper",
+                "user:zolisemeka",
+                "user:rfarr",
+                "user:jeff.vaughan",
+                "user:dperez",
+                "pod-z"
+            ]
+        },
+        "onica-rubicon-eu-preprod": {
+            "key": "onica-rubicon-eu-preprod",
+            "name": "Onica - Rubicon Global - EU PreProd",
+            "account_id": "215384566854",
+            "externalId": "215384566854",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-rubicon-security": {
+            "key": "onica-rubicon-security",
+            "name": "Onica - Rubicon Global - Security",
+            "account_id": "680770896533",
+            "externalId": "680770896533",
+            "tags": [
+                "managedro",
+                "managed",
+                "pod-z"
+            ]
+        },
+        "onica-iqmetrix-staging": {
+            "key": "onica-iqmetrix-staging",
+            "name": "Onica - iQmetrix Non-PCI Staging",
+            "account_id": "437675973569",
+            "externalId": "437675973569",
+            "tags": [
+                "managed",
+                "user:cmilam",
+                "user:ali.nada",
+                "pod-z",
+                "all",
+                "managedro"
+            ]
+        },
+        "onica-medinformatix-security": {
+            "key": "onica-medinformatix-security",
+            "name": "Onica - Medinformatix - Security",
+            "account_id": "103228202403",
+            "externalId": "103228202403",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-medinformatix-policysecurity": {
+            "key": "onica-medinformatix-policysecurity",
+            "name": "Onica - Medinformatix - Policy Security",
+            "account_id": "521144152523",
+            "externalId": "521144152523",
+            "tags": [
+                "managedro",
+                "all",
+                "managed",
+                "pod-z",
+                "gir-support"
+            ]
+        },
+        "onica-medinformatix-dev": {
+            "key": "onica-medinformatix-dev",
+            "name": "Onica - MedInformatix - Dev",
+            "account_id": "320574597545",
+            "externalId": "320574597545",
+            "tags": [
+                "managed",
+                "user:knguyen",
+                "pod-z",
+                "user:tpuchalski",
+                "user:bmajeed",
+                "gir-support",
+                "user:mward",
+                "user:devans",
+                "all",
+                "user:andy.wang1",
+                "user:jwen",
+                "pso",
+                "user:lmaurice",
+                "user:victor.ifarinde",
+                "managedro"
+            ]
+        },
+        "relatient-pre-prod": {
+            "key": "relatient-pre-prod",
+            "name": "Relatient - Pre Prod",
+            "account_id": "813996273881",
+            "externalId": "813996273881",
+            "tags": [
+                "gir-support",
+                "pod-z"
+            ]
+        },
+        "relatient-stage": {
+            "key": "relatient-stage",
+            "name": "Relatient - Stage",
+            "account_id": "480594981257",
+            "externalId": "480594981257",
+            "tags": [
+                "gir-support",
+                "pod-z"
+            ]
+        },
+        "onica-bolsa-deployments": {
+            "key": "onica-bolsa-deployments",
+            "name": "Onica - Bolsa Mercantil de Colombia - Deployments",
+            "account_id": "935131352276",
+            "externalId": "935131352276",
+            "tags": [
+                "pod-z"
+            ]
+        }
+    }
+}
